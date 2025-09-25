@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 25.09.2025
+## Register Number: 25010152
+## Name: Sifiz A
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,45 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+My solution is a mobile app that helps farmers.
+It gives advice on which crop to grow.
+Tells what fertilizer to use.
+Shows weather updates.
+Farmers can upload photos of pests, and the app will tell what disease it is.
+It also shows market prices of crops.
+Farmers can hear the advice in their own language using voice option.
+This way, farmers don’t have to depend on shopkeepers or guesswork.
+
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+I will make an Android app (since most farmers use Android phones).
+A server will be used to store farmer details and give answers.
+A database will keep soil, crop, and price information.
+The app will use:
+Weather API (to get weather updates).
+Market price API.
+Camera option (for pest detection).
+Farmer opens app and asks question / uploads photo.Then the server checks data and the app gives answer in local language.
+
+![alt text](farmersapp.png.jpg)
+
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+Farmers now have smartphones, so they can use this app.
+Government also supports digital agriculture, so this idea is possible.
+
+Challenges:
+Internet may not be there in villages. So we can keep some info offline.
+Some farmers don’t know how to read.So I will add voice support.
+
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+Farmers get correct information and the crop yield increases.
+They save money by using right fertilizer.
+Farming becomes more eco-friendly with less chemical use.
+Farmers earn better income.
+
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+https://www.tnagrisnet.tn.gov.in/people_app/dashboard/main/en
+https://medium.com/clique-org/react-js-and-spring-boot-farmer-friendly-web-app-d0af6bb9b3a8
