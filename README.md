@@ -50,7 +50,7 @@ It also shows market prices of crops.
 Farmers can hear the advice in their own language using voice option.
 This way, farmers don’t have to depend on shopkeepers or guesswork.
 
-
+![alt text](farmersapp.png.jpg)
 ## Technical Approach
 I will make an Android app (since most farmers use Android phones).
 A server will be used to store farmer details and give answers.
@@ -61,7 +61,7 @@ Market price API.
 Camera option (for pest detection).
 Farmer opens app and asks question / uploads photo.Then the server checks data and the app gives answer in local language.
 
-![alt text](farmersapp.png.jpg)
+
 
 
 ## Feasibility and Viability
